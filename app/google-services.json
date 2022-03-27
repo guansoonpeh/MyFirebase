@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540645555331",
+    "firebase_url": "https://bait2073demo-default-rtdb.firebaseio.com",
+    "project_id": "bait2073demo",
+    "storage_bucket": "bait2073demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540645555331:android:acfa15980621f9bd11efb6",
+        "android_client_info": {
+          "package_name": "com.example.myfirestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540645555331-pa542s6rir8r402o9k0j5em7h5br747f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGKNNqYzqTCjjJA152oFeNY6efHS-XHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540645555331-pa542s6rir8r402o9k0j5em7h5br747f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
